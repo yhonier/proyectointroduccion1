@@ -1,0 +1,25 @@
+h1{
+    <b></br>
+}
+
+.fondofauna{
+background-image: url("img/pajaros.jpg");
+background-attachment: fixed;
+width: 2000;
+height: 2000;
+
+}
+
+.fondofooter{
+    background-color: grey;
+    text-align: center;
+    color: white;
+
+}
+
+p{
+    font-size: 1.2em;
+}
+ video {
+    style="border-radius: 40px;";
+ }

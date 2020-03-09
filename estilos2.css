@@ -1,0 +1,13 @@
+body{
+color: blue; 
+}
+
+.fondoflora {
+ background-image: url(/img/flora.jpg); 
+ background-attachment: fixed;
+}
+.formatosection {
+font-family: fantasy;
+text-align: right;
+<p> <i> </i> </p>;
+}
