@@ -1,25 +1,77 @@
-h1{
-    <b></br>
+.forheader{
+    font-weight:bold;
+    text-align: center;
 }
 
 .fondofauna{
 background-image: url("img/pajaros.jpg");
-background-attachment: fixed;
-width: 2000;
-height: 2000;
+height: 635px;
+width: 1900px;
+display: block;
+margin:  auto;
+        }
 
-}
+.tamtexto{
+    font-size: 1.2em;
+        }
 
 .fondofooter{
     background-color: grey;
     text-align: center;
     color: white;
+            }
 
-}
 
-p{
-    font-size: 1.2em;
-}
  video {
     style="border-radius: 40px;";
  }
+
+ .body1{
+    color: green;  
+}
+   
+.fondosetion {
+    background-image: url("img/fauna.jpg");
+    background-attachment: fixed;
+    display: block;
+    margin:  auto;
+
+}
+
+.estilosection {
+    font-family: 'Franklin Gothic Medium';
+    text-align: justify;
+    Font-weight: italic;
+}
+
+.fondofauna2{
+    background-image: url("img/fauna.jpg");
+    height: 300px;
+    width: 1000px;
+    display: block;
+    margin: auto;
+}
+
+.formatosection {
+    font-family: fantasy;
+    text-align: left;
+    <Font-weight: italic;
+    }
+
+    .fondoflora {
+        background-image: url("img/flora.jpg"); 
+        background-attachment: fixed;
+        height: 300px;
+        width: 1000px;
+        display: block;
+        margin: auto;
+    }
+
+    .body2 {
+        color: blue;
+    }
+
+    .formatosection2 {
+        font-family: sans-serif ;
+        <Font-weight: italic;
+        }
