@@ -23,15 +23,16 @@ margin:  auto;
 
 
  video {
-    style="border-radius: 40px;";
- }
+    border-radius: 40px;
+    
+     }
 
  .body1{
     color: green;  
 }
    
 .fondosetion {
-    background-image: url("img/fauna.jpg");
+    background-image: url("img/fauna.jpg"); 
     background-attachment: fixed;
     display: block;
     margin:  auto;
@@ -55,7 +56,7 @@ margin:  auto;
 .formatosection {
     font-family: fantasy;
     text-align: left;
-    <Font-weight: italic;
+    Font-weight: italic;
     }
 
     .fondoflora {
@@ -73,5 +74,5 @@ margin:  auto;
 
     .formatosection2 {
         font-family: sans-serif ;
-        <Font-weight: italic;
+        Font-weight: italic;
         }
